@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HoumaLanguageProject
 - 👀 Making Indigenous languages accessible to Indigenous communites
 - 🌱 Version Control
-- 💞️ Front-end stuff to bring research data back to community
+- 💞️ Bring research data back to community
 - 📫 https://www.houmalanguageproject.org/
 
 <!---
